@@ -4,6 +4,7 @@ Data Science teacher at Governor's School for Science and Technology. This GitHu
 
 [![Gaelan's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaelanVenturi&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
 
+
 ## Tools Used
 
 * OS: [Arch Linux](https://archlinux.org/)
@@ -21,3 +22,5 @@ Data Science teacher at Governor's School for Science and Technology. This GitHu
 * Lua
 * Python
 * R 
+
+## [dotfiles](https://github.com/GaelanVenturi/dotfiles)
