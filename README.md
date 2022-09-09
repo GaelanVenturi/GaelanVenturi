@@ -16,7 +16,7 @@ Data Science teacher at Governor's School for Science and Technology. This GitHu
 
 ## Languages Used 
 
-* C++ 
+* C/C++ 
 * LaTeX 
 * Lua
 * Python
