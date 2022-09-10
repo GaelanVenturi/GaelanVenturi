@@ -14,6 +14,7 @@ Data Science teacher at Governor's School for Science and Technology. This GitHu
 * Theme: [Catppuccin](https://github.com/catppuccin) Mocha 
 * Terminal: [Kitty](https://github.com/kovidgoyal/kitty) 
 * PDF Reader: [Zathura](https://pwmt.org/projects/zathura/) 
+* R IDE: [RStudio](https://www.rstudio.com/)
 
 ## Languages Used 
 
