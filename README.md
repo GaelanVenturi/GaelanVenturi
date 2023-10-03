@@ -5,6 +5,7 @@ I'm a Computer Science and Data Science instructor at the Governor's School for 
 ## GitHub Stats
 
 [![Gaelan's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaelanVenturi&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
+
 ## Here's a link to my [dotfiles](https://github.com/GaelanVenturi/.dotfiles)
 
 ## Some tools I use on a regular basis
@@ -70,3 +71,6 @@ I'm a Computer Science and Data Science instructor at the Governor's School for 
 
 * [$\LaTeX$](https://www.latex-project.org/)
 
+## Resources/Citations 
+
+- Thanks to [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) for the stat graphs.
