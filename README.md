@@ -47,7 +47,7 @@ I'm a Computer Science and Data Science instructor at the Governor's School for 
 
 ## Languages Used
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaelanVenturi)](https://github.com/GaelanVenturi/github-readme-stats&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaelanVenturi)](https://github.com/GaelanVenturi/github-readme-stats&bg_color=1e1e2e&text_color=cdd6f4)
 
 ### Programming Languages
 
