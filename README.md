@@ -4,6 +4,9 @@ I'm a Computer Science and Data Science instructor at the Governor's School for 
 
 ## GitHub Stats
 
+![](https://komarev.com/ghpvc/?username=GaelanVenturi&color=#f38ba)
+[![HitCount](https://hits.dwyl.com/{username}/{project-name}.svg)](https://hits.dwyl.com/{username}/{project-name})
+
 [![Gaelan's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaelanVenturi&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/anuraghazra/github-readme-stats&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
 
 ## Here's a link to my [dotfiles](https://github.com/GaelanVenturi/.dotfiles)
@@ -73,4 +76,6 @@ I'm a Computer Science and Data Science instructor at the Governor's School for 
 
 ## Resources/Citations 
 
-- Thanks to [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) for the stat graphs.
+- 
+- [Github]
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) for the stat graphs.
