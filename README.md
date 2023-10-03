@@ -8,6 +8,10 @@ I'm a Computer Science and Data Science instructor at the Governor's School for 
 
 [![Gaelan's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaelanVenturi&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/anuraghazra/github-readme-stats&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
 
+## Coding Activity 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GaelanVenturi)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## Here's a link to my [dotfiles](https://github.com/GaelanVenturi/.dotfiles)
 
 ## Some tools I use on a regular basis
@@ -77,3 +81,4 @@ I'm a Computer Science and Data Science instructor at the Governor's School for 
 
 - [github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) for the stat graphs.
+- [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
