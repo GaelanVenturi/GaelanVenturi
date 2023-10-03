@@ -4,7 +4,7 @@ I'm a Computer Science and Data Science instructor at the Governor's School for 
 
 ## GitHub Stats
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=GaelanVenturi&color=#f38ba8)
+![Profile View Counter](https://komarev.com/ghpvc/?username=GaelanVenturi&color=blue)
 
 [![Gaelan's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaelanVenturi&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/anuraghazra/github-readme-stats&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
 
