@@ -10,7 +10,7 @@ I'm a Computer Science and Data Science instructor at the Governor's School for 
 
 ## Coding Activity 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GaelanVenturi)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GaelanVenturi's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GaelanVenturi&bg_color=1e1e2e&color=cdd6f4&line=cba6f7&point=f38ba8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Here's a link to my [dotfiles](https://github.com/GaelanVenturi/.dotfiles)
 
