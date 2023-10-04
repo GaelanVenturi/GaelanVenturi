@@ -1,6 +1,6 @@
 # Hi there! :wave:
 
-I'm a Computer Science and Data Science instructor at the Governor's School for Science and Technology and adjunct professor of computer science at Christopher Newport University. This GitHub represents some workflow and professional developments. You can visit my website [here](https://github.com/GaelanVenturi/GaelanVenturi.github.io).
+I'm a Computer Science and Data Science instructor at the Governor's School for Science and Technology and adjunct professor of computer science at Christopher Newport University. This GitHub represents some workflow and professional developments. You can visit my website [here](https://gaelanventuri.github.io/).
 
 ## GitHub Stats
 
