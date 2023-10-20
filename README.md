@@ -75,7 +75,7 @@ I'm a Computer Science and Data Science instructor at the Governor's School for 
 
 ### Typesetting
 
-* [$\LaTeX$](https://www.latex-project.org/)
+* [LaTeX](https://www.latex-project.org/)
 
 ## Resources/Citations 
 
