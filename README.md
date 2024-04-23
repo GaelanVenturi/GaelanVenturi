@@ -10,7 +10,7 @@
 ### 👨‍💻 Languages I'm proficient in
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square)
-![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=for-the-badge)
+![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat-square)
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat-square)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat-square)
 ![Vega Badge](https://img.shields.io/badge/Vega-2450B2?logo=vega&logoColor=fff&style=flat)
