@@ -1,24 +1,31 @@
-<h1 align="center">Hi 👋, I'm Gaelan Venturi</h1>
-<h3 align="center">I'm an instructor</h3>
+# Hi 👋, I'm Gaelan Venturi
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaelanventuri&label=Profile%20views&color=0e75b6&style=flat" alt="gaelanventuri" /> </p>
+### I'm an instructor
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaelanventuri" alt="gaelanventuri" /></a> </p>
+![Profile views](https://komarev.com/ghpvc/?username=gaelanventuri&label=Profile%20views&color=0e75b6&style=flat)
 
-<p align="left"> <a href="https://twitter.com/gaelanventuri" target="blank"><img src="https://img.shields.io/twitter/follow/gaelanventuri?logo=twitter&style=for-the-badge" alt="gaelanventuri" /></a> </p>
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=gaelanventuri)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/gaelanventuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gaelanventuri" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gaelan-venturi-11227a277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaelan-venturi-11227a277" height="30" width="40" /></a>
-</p>
+[![Twitter Follow](https://img.shields.io/twitter/follow/gaelanventuri?logo=twitter&style=for-the-badge)](https://twitter.com/gaelanventuri)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Connect with me:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaelanventuri&show_icons=true&locale=en&layout=compact" alt="gaelanventuri" /></p>
+[![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/gaelanventuri)
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/gaelan-venturi-11227a277)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaelanventuri&show_icons=true&locale=en" alt="gaelanventuri" /></p>
+### Languages and Tools:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaelanventuri&" alt="gaelanventuri" /></p>
+[![Arduino](https://cdn.worldvectorlogo.com/logos/arduino-1.svg)](https://www.arduino.cc/)
+[![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)](https://www.gnu.org/software/bash/)
+[![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)](https://www.cprogramming.com/)
+[![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)](https://www.w3schools.com/cpp/)
+[![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/)
+[![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)](https://www.linux.org/)
+[![MATLAB](https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png)](https://www.mathworks.com/)
+[![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=gaelanventuri&show_icons=true&locale=en&layout=compact)
+
+![Gaelan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaelanventuri&show_icons=true&locale=en)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gaelanventuri&)
