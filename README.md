@@ -5,8 +5,6 @@
   <i>Probably running around with my head cut off. </i>
 </p>
 
-### :telescope: About Me
-
 ### 👨‍💻 Languages I'm proficient in
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square)
@@ -43,14 +41,6 @@
 ![Obsidian Badge](https://img.shields.io/badge/Obsidian-7C3AED?logo=obsidian&logoColor=fff&style=flat-square)
 ![Proton Badge](https://img.shields.io/badge/Proton-6D4AFF?logo=proton&logoColor=fff&style=flat-square)
 ![Zsh Badge](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff&style=flat-square)
-
-### :computer: What I'm currently working on
-
-### :pencil: Future Projects
-
-###
-
-### :mailbox: How to reach me
 
 ### :chart_with_upwards_trend: Stats
 
