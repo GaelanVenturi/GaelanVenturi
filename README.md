@@ -54,5 +54,5 @@
 
 ### :chart_with_upwards_trend: Stats
 
-![Gaelan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaelanventuri&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaelanventuri&hide_progress=true&theme=dracula)
+![Gaelan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaelanventuri&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaelanventuri&hide_progress=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
